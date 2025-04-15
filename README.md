@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rahul Kumar
+- 👋 Hi, I’m Rahul Rajpoot
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning my MCA education
+- 🌱 MCA
 - 💞️ I’m looking to collaborate on .
 - 📫 My contact no-8707461828 , E-mail- rahul1552296@gmail.com
 
